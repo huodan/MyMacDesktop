@@ -6,7 +6,7 @@
 //  Copyright © 2017年 HuoDan team. All rights reserved.
 //
 //  桶排序，时间复杂度o(n),空间复杂度与要排序的数据范围有关，与n无关
-//  适用于数据取值于孤立的数据，切范围较小的情况！
+//  适用于数据取值于孤立的数据，且范围较小的情况！
 
 #include <iostream>
 using namespace std;
